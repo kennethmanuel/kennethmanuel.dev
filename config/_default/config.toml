@@ -9,7 +9,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 20
+paginate = 10
 summaryLength = 30
 
 buildDrafts = false
@@ -25,4 +25,4 @@ buildFuture = false
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-disableKinds = ['taxonomy', 'term']
+# disableKinds = ['taxonomy', 'term']

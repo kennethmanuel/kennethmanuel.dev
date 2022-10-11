@@ -7,8 +7,9 @@ rtl = false
 
 title = "KennethManuel.Dev"
 # logo = "img/logo.png"
-description = "Kenneth writes stuff"
+description = "Kenneth Manuel writes stuff in his blog."
 # copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2022 KennethManuel.Dev"
 
 dateFormat = "2 January 2006"
 
@@ -16,7 +17,7 @@ dateFormat = "2 January 2006"
   name = "Kenneth Manuel"
   image = "img/author.png"
   headline = "Share stuff"
-  bio = "Kenneth Manuel is a student from Indonesia."
+  bio = "Professional Idiot"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
