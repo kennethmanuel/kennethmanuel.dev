@@ -22,7 +22,8 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "hero" # valid options: page, profile, hero, card, custom
+  homepageImage = "morning_bedroom.jpg" # used when card or hero layout is used
   showRecent = true
   showRecentItems = 10
   showMoreLink = true

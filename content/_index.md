@@ -1,1 +1,6 @@
-In October 2022 I decided to that I wanted to start making a blog. While I don't have much to share but I still believes in preserving one that I do is a wise decison.
+---
+cascade:
+    showReadingTime: false
+    showDate: false
+    sharingLinks: false
+---
